@@ -3,7 +3,7 @@
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/komgenski_dev/)
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KomgenskiQDM)
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2labqP44MjCjj-ANlxEcxA)
+[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2labqP44MjCjj-ANlxEcxA)[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/+554792848830)
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoKomgenski&show_icons=true&theme=tokyonight)
 
